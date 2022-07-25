@@ -1,3 +1,3 @@
-# terraform2
+# terraform2_test
 
 Создание 2 вирт машин
